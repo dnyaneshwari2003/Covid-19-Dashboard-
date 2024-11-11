@@ -34,4 +34,4 @@ The data used for this project is sourced from Kaggle and includes the following
 - **Map Visualization**: A map indicates total deaths by state, helping visualize the impact geographically.
 
 ## Drive Link 
-https://drive.google.com/drive/folders/1y5Mgr0w4mowHBAJ1Ctpd8Mp8TRXjy8JQ?usp=drive_link
+https://drive.google.com/drive/folders/1y5Mgr0w4mowHBAJ1Ctpd8Mp8TRXjy8JQ?usp=sharing
