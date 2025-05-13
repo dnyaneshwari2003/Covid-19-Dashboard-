@@ -23,7 +23,7 @@ The data used for this project is sourced from Kaggle and includes the following
 - **Statewise TestingDetails**: Shows state-wise testing details for COVID-19.
 
 - links :-
-- 
+  
   https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india?datasetId=557629&sortBy=voteCount
   https://www.kaggle.com/code/anshuls235/covid19-explained-through-visualizations/data
 
